@@ -1,0 +1,3 @@
+This is an updated text file.
+It is different from the original one.
+It corresponds to step three.
